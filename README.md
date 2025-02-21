@@ -24,6 +24,7 @@ This project focuses on analyzing the media and entertainment industry using Tal
 
 ## Project Files
 - **Talend Files**: Contains all the Talend job files used in the project.
+- **SQL Files**: Contain SQL Script.
 
 ## Getting Started
 To get started with this project, follow these steps:
